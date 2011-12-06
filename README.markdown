@@ -1,0 +1,1 @@
+This is a plugin that allows you to ( using the full [jQuery](http://www.jquery.com) library ) create modal dialogues in whatever style you like, with a nice slide left effect.

@@ -1,1 +1,1 @@
-This is a plugin that allows you to ( using the full [jQuery](http://www.jquery.com) library ) create modal dialogues in whatever style you like, with a nice slide left effect.
+This is a plugin that allows you to ( using the full [jQuery](http://www.jquery.com) library ) create modal dialogues in whatever style you like, with a nice slide left effect. This is designed for mobile applications, but should also work in a desktop environment.
